@@ -111,7 +111,7 @@ while game:
             game = False
     clock.tick(60)
     display.update()
-
+#буду рад вам помочь этим кодом
 
 
 
